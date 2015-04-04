@@ -120,4 +120,7 @@
     </div>
     <!-- /.row -->
 
+<button id="btnLogin" type="button" class="btn btn-default" aria-label="Left Align" runat="server" onServerClick="btnLogin_Click">
+  <span class="glyphicon glyphicon-align-left" aria-hidden="true"></span>
+</button>
 </asp:Content>
