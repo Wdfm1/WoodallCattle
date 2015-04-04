@@ -1,0 +1,5 @@
+
+.icon-herd:before { content: '\e800'; } /* '' */
+.icon-cow:before { content: '\e801'; } /* '' */
+.icon-calf:before { content: '\e803'; } /* '' */
+.icon-bull:before { content: '\e804'; } /* '' */
